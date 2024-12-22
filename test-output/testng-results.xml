@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-22T20:34:08 IST" name="Suite" finished-at="2024-12-22T20:34:08 IST" duration-ms="111">
+    <groups>
+    </groups>
+    <test started-at="2024-12-22T20:34:08 IST" name="Test" finished-at="2024-12-22T20:34:08 IST" duration-ms="111">
+      <class name="com.example.devops.demo.devops.ApplicationTests">
+        <test-method signature="contextLoads()[pri:0, instance:com.example.devops.demo.devops.ApplicationTests@69fb6037]" started-at="2024-12-22T20:34:08 IST" name="contextLoads" finished-at="2024-12-22T20:34:08 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.example.devops.demo.devops.ApplicationTests -->
+      <class name="com.example.devops.demo.devops.secondTest">
+        <test-method signature="sampleThree()[pri:0, instance:com.example.devops.demo.devops.secondTest@3943a2be]" started-at="2024-12-22T20:34:08 IST" name="sampleThree" finished-at="2024-12-22T20:34:08 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleThree -->
+        <test-method signature="sampleTwo()[pri:0, instance:com.example.devops.demo.devops.secondTest@3943a2be]" started-at="2024-12-22T20:34:08 IST" name="sampleTwo" finished-at="2024-12-22T20:34:08 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTwo -->
+      </class> <!-- com.example.devops.demo.devops.secondTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
